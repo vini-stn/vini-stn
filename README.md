@@ -68,8 +68,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vini-stn&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" height="165" alt="Estatísticas do GitHub de vini-stn" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-stn&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="165" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=vini-stn&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" height="165" alt="Estatísticas do GitHub de vini-stn" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vini-stn&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="165" alt="Linguagens mais utilizadas" />
 </div>
 
 <br />
@@ -81,13 +81,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vini-stn&theme=dracula&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
+  <img src="https://trophy.ryglcloud.net/?username=vini-stn&theme=dracula&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini-stn&bg_color=0D1117&color=A9B1D6&line=F75C7E&point=FCC624&area=true&area_color=2D2A4A&hide_border=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade das contribuições" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=vini-stn&bg_color=0D1117&color=A9B1D6&line=F75C7E&point=FCC624&area=true&area_color=2D2A4A&hide_border=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade das contribuições" />
 </div>
 
 ![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
@@ -95,8 +95,28 @@
 ## 🌟 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/vini-stn/vinistn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vini-stn&repo=vinistn&theme=dracula&hide_border=true&bg_color=0D1117" alt="Card do repositório vinistn" />
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-setup-store.png" width="32%" alt="Setup Store — e-commerce demonstrativo de hardware e periféricos" />
+  </a>
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-pizzaria-delivery.png" width="32%" alt="Pizzaria Delícia Delivery — cardápio interativo com carrinho" />
+  </a>
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-pizzaria-landing.png" width="32%" alt="Pizzaria Delícia — landing page com forno a lenha e cardápio" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-barbearia.png" width="32%" alt="Landing Barbearia — Navalha &amp; Navalha, agendamento pelo WhatsApp" />
+  </a>
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-petshop.png" width="32%" alt="Landing Pet Shop — Pata &amp; Pelo, serviços e agendamento" />
+  </a>
+  <a href="https://vinistn.vercel.app">
+    <img src="./showcase-dentista.png" width="32%" alt="Landing Dentista — Sorriso &amp; Cia, clínica odontológica" />
   </a>
 </div>
 
