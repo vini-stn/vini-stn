@@ -1,91 +1,121 @@
 <div align="center">
-<!-- hyochan -->
-  
+  <a href="https://vinistn.vercel.app">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=280&section=header&text=Vinicius%20Santana&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer&descAlignY=55&descSize=22"
+      alt="Cabeçalho — Vinicius Santana, Front-End Developer"
+    />
+  </a>
+</div>
+
 <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=640&lines=Desenvolvedor+Front-End;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Transformando+ideias+em+experi%C3%AAncias+digitais"
+    alt="Frase animada: Desenvolvedor Front-End · HTML · CSS · JavaScript · Transformando ideias em experiências digitais"
+  />
+</div>
 
-<!-- kyechan99/capsule-render -->
-![Cabeçalho do Capsule-Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vinicius%20Santana&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-
+<div align="center">
+  <img
+    src="https://count.getloli.com/get/@vini-stn-profile?theme=moebooru"
+    alt="Contador de visitas"
+    title="Obrigado pela visita! 🌸"
+  />
 </div>
 
 <p align="center">
   <img title="Criador" src="https://img.shields.io/badge/Criador-Vinicius%20Santana-green.svg?style=for-the-badge&logo=github">
-  <img title="Função" src="https://img.shields.io/badge/Web%20Developer-blue.svg?style=for-the-badge&logo=github">
-  <img title="Portfól participated" src="https://img.shields.io/badge/Portfólio-Ativo-pink.svg?style=for-the-badge&logo=github">
+  <img title="Função" src="https://img.shields.io/badge/Front%20End%20Developer-blue.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img title="Status" src="https://img.shields.io/badge/Portf%C3%B3lio-Ativo-pink.svg?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 <div align="center">
   <a href="https://www.instagram.com/vinistn-ofc">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vinistn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vinistn.win@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img title="E-mail" src="https://img.shields.io/badge/Email-vinistn.win%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
-  <a href="https://my-portifolio-lemon.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Vinicius%20Santana-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://vinistn.vercel.app">
+    <img title="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Vinicius%20Santana-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
 ## 🚀 Sobre mim
 
+<div align="center">
+
 💻 Desenvolvedor web focado em soluções modernas, escaláveis e centradas no usuário.  
 🎨 Transformo ideias em experiências digitais de alta performance.  
-📈 Sempre aprendendo novas tecnologias e evoluindo como profissional.
+📘 Sempre aprendendo novas tecnologias e evoluindo como profissional.
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
-
-## 🧠 Tecnologias que utilizo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" />
 </div>
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+
+## 🛠️ Tecnologias que utilizo
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,nextjs,python,php,laravel,mongodb,mysql,git,github,gitlab,vscode&perline=8" alt="Tecnologias: HTML5, CSS3, JavaScript, TypeScript, Tailwind, Node.js, Next.js, Python, PHP, Laravel, MongoDB, MySQL, Git, GitHub, GitLab e VS Code" />
+</div>
+
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinistn-ofc&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinistn-ofc&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vini-stn&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" height="165" alt="Estatísticas do GitHub de vini-stn" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-stn&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="165" alt="Linguagens mais utilizadas" />
 </div>
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+<br />
 
-## 📌 Projetos em destaque
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vini-stn&locale=pt&hide_border=true&background=0D1117&border=6272A4&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideLabels=A9B1D6&dates=A9B1D6" alt="Sequência de contribuições" />
+</div>
 
-- 🔗 [Portfólio Online](https://vinistn.vercel.app)  
-- 📂 [Repositórios GitHub](https://github.com/vinistn-ofc?tab=repositories)  
+<br />
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vini-stn&theme=dracula&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini-stn&bg_color=0D1117&color=A9B1D6&line=F75C7E&point=FCC624&area=true&area_color=2D2A4A&hide_border=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade das contribuições" />
+</div>
+
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+
+## 🌟 Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/vini-stn/vinistn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vini-stn&repo=vinistn&theme=dracula&hide_border=true&bg_color=0D1117" alt="Card do repositório vinistn" />
+  </a>
+</div>
+
+→ **vini-stn/vinistn** — vitrine com landing pages, delivery pizzaria interativo e e-commerce, tudo em um só portfólio.  
+→ **Veja tudo em:** [vinistn.vercel.app](https://vinistn.vercel.app) · [todos os repositórios](https://github.com/vini-stn?tab=repositories)
+
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor fullstack, contribuindo para projetos open-source e criando soluções que impactem positivamente pessoas e negócios.
+Continuar evoluindo como desenvolvedor, contribuindo para projetos open-source e criando soluções que impactem positivamente pessoas e negócios.
 
-![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
+![Linha decorativa](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
-## 📜 Licença e Créditos
-
-💙 Este perfil é mantido por **Vinicius Santana**.  
-O uso do conteúdo é livre, mas mantenha os créditos como forma de reconhecimento.
+<div align="center">
+  <a href="https://vinistn.vercel.app">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=footer&text=Obrigado%20pela%20visita%21&fontSize=36&animation=fadeIn&fontAlignY=70"
+      alt="Rodapé — obrigado pela visita!"
+    />
+  </a>
+</div>
