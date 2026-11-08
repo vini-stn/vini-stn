@@ -116,7 +116,7 @@
     <img src="./showcase-petshop.png" width="32%" alt="Landing Pet Shop — Pata &amp; Pelo, serviços e agendamento" />
   </a>
   <a href="https://vinistn.vercel.app">
-    <img src="./showcase-dentista.png" width="32%" alt="Landing Dentista — Sorriso &amp; Cia, clínica odontológica" />
+    <img src="./showcase-dentista-v2.png" width="32%" alt="Landing Dentista — Sorriso &amp; Cia, clínica odontológica" />
   </a>
 </div>
 
