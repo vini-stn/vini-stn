@@ -75,7 +75,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vini-stn&locale=pt&hide_border=true&background=0D1117&border=6272A4&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideLabels=A9B1D6&dates=A9B1D6" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=vini-stn&locale=pt&hide_border=true&background=0D1117&border=6272A4&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=A9B1D6&currStreakLabel=F75C7E&sideLabels=A9B1D6&dates=A9B1D6" alt="Sequência de contribuições" />
 </div>
 
 <br />
